@@ -2,6 +2,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamrul-CSE-47&show_icons=true&locale=en&layout=compact" alt="Kamrul-CSE-47" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamrul-CSE-47&show_icons=true&locale=en&layout=compact" alt="kamrul-CSE-official" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kamrul-CSE-47&show_icons=true&locale=en" alt="Kamrul-CSE-47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kamrul-CSE-47&show_icons=true&locale=en" alt="kamrul-CSE-official" /></p>
