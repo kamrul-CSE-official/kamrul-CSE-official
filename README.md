@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/9WbWZ0K/Black-and-Red-Gradient-Professional-Linked-In-Banner-5.png" align="kamrul" height="" width="600" />
+<img src="https://i.ibb.co/9WbWZ0K/Black-and-Red-Gradient-Professional-Linked-In-Banner-5.png" align="kamrul" height="" width="900" />
 </div>
 
 ### <div align="center">I'm MD.Kamrul Hasan, a web and software developer 👨‍💻</div>
