@@ -2,16 +2,40 @@
   <img src="https://i.ibb.co/4ZTxknv/Black-and-Red-Gradient-Professional-Linked-In-Banner.gif" align="center" height="" width="900" />
 </div>
 
-### <div align="center">I'm MD.Kamrul Hasan, a web and software developer 👨‍💻</div>
+## Hi there 👋
+### Thanks for visiting my profile. I'm a software engineer based in Chittagong, Bangladesh.
 
-- 🔭 I’m currently working at [just move in](https://relaxed-newton-efbdb5.netlify.app/?fbclid=IwAR1V6VQKt6pmFEUaqyryuWxu6Weu7W58rSY0nMaQeGrj5efT2-RrnBsIYsQ)
+## How to reach me:
+- Facebook: https://www.facebook.com/Kamrul.h.m.77/
+- Blog: https://kamrul-h-manzur.netlify.app/blogs
+- Twitter: https://twitter.com/foyzul_karim
+- GitHub: https://github.com/kamrul-CSE-official
+- LinkedIn: https://www.linkedin.com/in/kamrul-h-manzur-a466581ab/
+- Email: k.manzur@yahoo.com
 
-- 🌱 I’m currently learning Unreal Engine, Vue.js, and Unity testing.
+## My CV/Resume:
 
-- ❓ Ask me about anything related to game development and related technologies.
+You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
 
-- ⚡ Fun fact: I use tabs over spaces 👍
+- [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
+- [GitHub view](https://github.com/foyzulkarim/foyzulkarim/blob/master/Resume-Foyzul-Karim.pdf)
+- [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
 
-<br/>
+
+
+<!--
+**foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
