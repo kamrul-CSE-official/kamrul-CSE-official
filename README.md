@@ -7,7 +7,7 @@
 
 ## How to reach me:
 - Facebook: https://www.facebook.com/Kamrul.h.m.77/
-- Blog: https://kamrul-h-manzur.netlify.app/blogs
+- Blog: https://kamrul-h-manzur.netlify.app/
 - Twitter: https://twitter.com/foyzul_karim
 - GitHub: https://github.com/kamrul-CSE-official
 - LinkedIn: https://www.linkedin.com/in/kamrul-h-manzur-a466581ab/
