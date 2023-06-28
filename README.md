@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/4ZTxknv/Black-and-Red-Gradient-Professional-Linked-In-Banner.gif" align="center" height="" width="900" />
+  <img src="https://i.ibb.co/6nQhDLq/ezgif-com-optimize.gif" align="center" height="" width="900" />
 </div>
 
 ## Hi there 👋
