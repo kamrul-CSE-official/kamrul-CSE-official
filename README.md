@@ -17,7 +17,7 @@
 
 You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
 
-- [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharings)
+- [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
 - [GitHub view](https://github.com/foyzulkarim/foyzulkarim/blob/master/Resume-Foyzul-Karim.pdf)
 - [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
 
