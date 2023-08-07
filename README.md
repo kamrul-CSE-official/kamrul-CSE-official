@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/6nQhDLq/ezgif-com-optimize.gif" align="center" height="" width="900" />
+  <img src="https://i.ibb.co/kq6MrrQ/1.png" align="center" height="" width="900" />
 </div>
 
 ## Hi there 👋
