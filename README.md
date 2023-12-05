@@ -8,23 +8,22 @@
 ### SKILLS
 ```json
 {
-  "Languages"       : ["Java", "Kotlin", "JavaScript", "C"],
-  "Front-end"       : ["Java", "Kotlin", "Native Android App Development", "JSP"],
-  "Back-end"        : ["Servlet", "JDBC", "Spring Core - MVC - Boot - AOP", "Firebase", "JPA", "Hibernate ORM"],
-  "DBMS"            : ["Mongo DB", "MySQL", "Oracle DB", "PostgreSQL"]
+  "Languages"       : ["javaScript", "typescript", "python", "C"],
+  "Front-end"       : ["Next JS", "React", "HTML5", "CSS3"],
+  "Back-end"        : ["Node JS", "Express JS", "mongoose" "Firebase", "JWT"],
+  "DBMS"            : ["Mongo DB", "MySQL", "json", "PostgreSQL"]
 }
 ```
 
 ### SOCIAL LINKS
 ```json
 {
-  "LeetCode"        : "https://leetcode.com/saadahmedscse/",
-  "LinkedIn"        : "https://www.linkedin.com/in/saadahmedscse/",
-  "Stack Overflow"  : "https://stackoverflow.com/users/10610218/saad-ahmed",
-  "Facebook"        : "https://www.facebook.com/SaadAhmedSCSE/",
-  "Discord"         : "https://discord.gg/263rX7JwfZ",
+  "URI online judge"        : "https://www.beecrowd.com.br/judge/en/profile/417423",
+  "LinkedIn"        : "https://www.linkedin.com/in/md-kamrul-hasan-a466581ab/",
+  "Facebook"        : "https://www.facebook.com/Kamrul.h.m.77/",
+  "Github"         : "https://github.com/kamrul-CSE-official",
 }
-
+```
 
 
 
