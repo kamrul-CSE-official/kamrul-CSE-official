@@ -3,7 +3,7 @@
 </div>
 
 ## Hi there 👋
-### Thanks for visiting my profile. I'm a software engineer based in Chittagong, Bangladesh.
+### Thanks for visiting my github. I'm a software engineer based in Chittagong, Bangladesh.
 
 ### SKILLS
 ```json
