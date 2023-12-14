@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.ibb.co/3NQrmwP/linkdin-cover.jpg](https://media.licdn.com/dms/image/D4D16AQFnfLHa_2uHCw/profile-displaybackgroundimage-shrink_350_1400/0/1702540964795?e=1707955200&v=beta&t=svmrohVXSoWBB283g0L2SVSv6Rp-UO_nPEUzXiT6OJg)" align="center" height="" width="900" />
+  <img src="https://media.licdn.com/dms/image/D4D16AQFnfLHa_2uHCw/profile-displaybackgroundimage-shrink_350_1400/0/1702540964795?e=1707955200&v=beta&t=svmrohVXSoWBB283g0L2SVSv6Rp-UO_nPEUzXiT6OJg" align="center" height="" width="900" />
 </div>
 
 ## Hi there 👋
