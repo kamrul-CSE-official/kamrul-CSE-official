@@ -18,10 +18,10 @@
 ### SOCIAL LINKS
 ```json
 {
-  "URI online judge"        : "https://www.beecrowd.com.br/judge/en/profile/417423",
-  "LinkedIn"        : "https://www.linkedin.com/in/md-kamrul-hasan-a466581ab/",
-  "Facebook"        : "https://www.facebook.com/Kamrul.h.m.77/",
-  "Github"         : "https://github.com/kamrul-CSE-official",
+  "URI online judge" : "https://www.beecrowd.com.br/judge/en/profile/417423",
+  "LinkedIn"         : "https://www.linkedin.com/in/md-kamrul-hasan-a466581ab/",
+  "Facebook"         : "https://www.facebook.com/Kamrul.h.m.77/",
+  "Github"           : "https://github.com/kamrul-CSE-official",
 }
 ```
 
