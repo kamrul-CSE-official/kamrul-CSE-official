@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQFnfLHa_2uHCw/profile-displaybackgroundimage-shrink_350_1400/0/1702540964795?e=1707955200&v=beta&t=svmrohVXSoWBB283g0L2SVSv6Rp-UO_nPEUzXiT6OJg" align="center" height="" width="900" />
 </div>
 
-## Hi there 👋
+## Hi there 👋 <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 ### Thanks for visiting my github. I'm a software engineer based in Chittagong, Bangladesh.
 
 ### SKILLS
