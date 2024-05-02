@@ -22,7 +22,7 @@
   "URI online judge" : "https://www.beecrowd.com.br/judge/en/profile/417423",
   "Github"           : "https://github.com/kamrul-CSE-official",
   "LinkedIn"         : "https://www.linkedin.com/in/md-kamrul-hasan-dev/",
-  "Twitter"                 : "https://twitter.com/Kamrul_Hasan47"
+  "Twitter"          : "https://twitter.com/Kamrul_Hasan47"
   "Facebook"         : "https://www.facebook.com/Kamrul.h.m.77/",
 }
 ```
