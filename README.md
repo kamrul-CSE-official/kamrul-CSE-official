@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/6WQRZTP/Purple-and-Yellow-Colorful-Gradient-Motivational-Quote-Linked-In-Article-Cover-Image.png" align="center" height="" width="900" />
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-git&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-git" /> </p>
 
 ## <a href="https://github.com/kamrul-CSE-official"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=800&color=F7F7F7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;This+is+MD.Kamrul+Hasan;How+are+you+doing%3F+%E2%98%BA" alt="Typing SVG" /></a>
 ### Thanks for visiting my github. I'm a software engineer based in Chittagong, Bangladesh.
