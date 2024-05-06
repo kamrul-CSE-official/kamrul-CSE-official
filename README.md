@@ -9,7 +9,7 @@
 ### SKILLS
 ```json
 {
-  "Languages"       : ["javaScript", "typescript", "python", "C", "java"],
+  "Languages"       : ["javaScript", "typescript", "python", "C", "java", "PHP"],
   "Front-end"       : ["Next JS", "React", "HTML5", "CSS3"],
   "Back-end"        : ["Node JS", "Express JS", "mongoose" "Firebase", "JWT"],
   "DBMS"            : ["Mongo DB", "MySQL", "json", "PostgreSQL"]
