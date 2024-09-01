@@ -24,7 +24,7 @@
 ---
 
 ### 🛠 My Skills
-
+```json
 {
 "Languages": ["JavaScript", "TypeScript", "Python", "Java", "PHP"],
 "Front-end": ["Next.js", "React", "HTML5", "CSS3", "Tailwind CSS"],
@@ -32,6 +32,8 @@
 "DBMS": ["MongoDB", "MySQL", "PostgreSQL", "Prisma", "Redis"],
 "Tools": ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva"]
 }
+```
+
 
 ---
 
