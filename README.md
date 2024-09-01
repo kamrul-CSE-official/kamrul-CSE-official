@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/kamrul.gif" align="center" height="" width="900" alt="Coding Animation"/>
+  <img src="/kamrul.gif" align="center" width="900" alt="Coding Animation"/>
 </div>
 
 <p align="center">
@@ -13,6 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
+
 - 🌱 Currently learning: **Advanced TypeScript, Next.js, and Prisma**
 - 🔭 Working on: **Algorithm visualization web application and backend services**
 - 👯 Looking to collaborate on: **Open-source projects and innovative web applications**
@@ -23,26 +24,31 @@
 ---
 
 ### 🛠 My Skills
-```json
+
 {
-  "Languages": ["JavaScript", "TypeScript", "Python", "Java", "PHP"],
-  "Front-end": ["Next.js", "React", "HTML5", "CSS3", "Tailwind CSS"],
-  "Back-end": ["Node.js", "Express.js", "Mongoose", "Prisma", "Firebase", "JWT"],
-  "DBMS": ["MongoDB", "MySQL", "PostgreSQL", "Prisma", "Redis"],
-  "Tools": ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva"]
+"Languages": ["JavaScript", "TypeScript", "Python", "Java", "PHP"],
+"Front-end": ["Next.js", "React", "HTML5", "CSS3", "Tailwind CSS"],
+"Back-end": ["Node.js", "Express.js", "Mongoose", "Prisma", "Firebase", "JWT"],
+"DBMS": ["MongoDB", "MySQL", "PostgreSQL", "Prisma", "Redis"],
+"Tools": ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva"]
 }
+
+---
+
 ### 🔗 Social Links
+
 ```json
 {
-  "URI Online Judge": "https://www.beecrowd.com.br/judge/en/profile/417423",
-  "GitHub": "https://github.com/kamrul-CSE-official",
+  "URI online judge": "https://www.beecrowd.com.br/judge/en/profile/417423",
+  "Github": "https://github.com/kamrul-CSE-official",
   "LinkedIn": "https://www.linkedin.com/in/md-kamrul-hasan-dev/",
   "Twitter": "https://twitter.com/Kamrul_Hasan47",
   "Facebook": "https://www.facebook.com/Kamrul.h.m.77/"
 }
-
+```
 
 ### 🛠 My Favourite Languages and Tools
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="33" alt="JavaScript logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="33" alt="TypeScript logo" /> 
@@ -64,4 +70,3 @@
   <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="28" height="33" /> 
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="28" height="33" />
 </div>
-
