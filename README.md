@@ -27,7 +27,7 @@
 ```json
 {
 "Languages":  ["JavaScript", "TypeScript", "Python", "Java", "PHP", "C", "dart"],
-"Front-end":  ["Next.js", "React", "Astro", "React native", "Electron js", "Flutter", "HTML5", "CSS3", "Tailwind CSS"],
+"Front-end":  ["Next.js", "React", "React native", "Electron js", "Flutter", "HTML5", "CSS3", "Tailwind CSS"],
 "Back-end":   ["Node.js", "Express.js", "Mongoose", "Prisma", "Firebase", "JWT"],
 "DBMS":       ["MongoDB", "MySQL", "PostgreSQL", "SQL Server", "Prisma", "Redis"],
 "Tools":      ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva", "Docker"]
