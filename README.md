@@ -30,20 +30,40 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const kamrul = {
-    location: "Chittagong, Bangladesh 🇧🇩",
-    role: "Full Stack Software Engineer",
-    code: ["JavaScript", "TypeScript", "Python", "C#", "Dart"],
-    currentFocus: "Building scalable web applications with modern tech stack",
-    learning: ["Advanced TypeScript", "Next.js 15", "Prisma ORM", "Microservices"],
-    workingOn: [
-        "Algorithm visualization platform",
-        "Real-time backend services",
-        "Open-source contributions"
-    ],
-    askMeAbout: ["Web Development", "Backend Architecture", "API Design", "Database Optimization"],
-    funFact: "I believe the best code is code that never needs to be written! 🚀"
+interface ISuperAdmin {
+  location: string;
+  role: string;
+}
+
+interface IDeveloperProfile extends ISuperAdmin {
+  code: string[];
+  currentFocus: string;
+  learning: string[];
+  workingOn: string[];
+  askMeAbout: string[];
+  funFact: string;
+}
+
+const kamrul: IDeveloperProfile = {
+  location: "Chittagong, Bangladesh 🇧🇩",
+  role: "Full Stack Software Engineer",
+  code: ["JavaScript", "TypeScript", "Python", "C#", "Dart"],
+  currentFocus: "Building scalable web applications with modern tech stack",
+  learning: ["Advanced TypeScript", "Next.js 15", "Prisma ORM", "Microservices"],
+  workingOn: [
+    "Algorithm visualization platform",
+    "Real-time backend services",
+    "Open-source contributions"
+  ],
+  askMeAbout: [
+    "Web Development",
+    "Backend Architecture",
+    "API Design",
+    "Database Optimization"
+  ],
+  funFact: "I believe the best code is code that never needs to be written!"
 };
+
 ```
 
 ### 🎯 What I'm Up To
