@@ -36,15 +36,17 @@ interface ISuperAdmin {
 }
 
 interface IDeveloperProfile extends ISuperAdmin {
+  name: string;
   code: string[];
   currentFocus: string;
   learning: string[];
   workingOn: string[];
   askMeAbout: string[];
-  funFact: string;
+  funFact?: string;
 }
 
 const kamrul: IDeveloperProfile = {
+  name: "MD.Kamrul Hasan",
   location: "Chittagong, Bangladesh 🇧🇩",
   role: "Full Stack Software Engineer",
   code: ["JavaScript", "TypeScript", "Python", "C#", "Dart"],
