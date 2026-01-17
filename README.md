@@ -27,9 +27,9 @@
 ```json
 {
 "Languages":  ["JavaScript(TypeScript)", "Python", "dart", "C#"],
-"Back-end":   ["Node.js", "Express.js", "Mongoose", "Prisma", "Firebase", "JWT"],
-"Tools":      ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva", "Docker"],
-"DBMS":       ["MongoDB", "MySQL", "PostgreSQL", "SQL Server", "Prisma", "Redis", "firebase"],
+"DBMS":       ["MongoDB", "PostgreSQL", "SQL Server", "Prisma", "Redis", "firebase"],
+"Tools":      ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva", "Docker", "Chat GPT"],
+"Back-end":   ["dot net", "django", "Node.js", "Express.js", "Mongoose", "Prisma", "Firebase", "JWT"],
 "Front-end":  ["Next.js", "React js", "React native(expo)", "Electron js", "Flutter", ".net/ASP .net", "django" "Redux & RTK"],
 }
 ```
