@@ -1,76 +1,161 @@
 <div align="center">
-  <img src="/kamrul.gif" align="center" width="900" alt="Coding Animation"/>
+  <img src="/kamrul.gif" width="100%" alt="Coding Animation"/>
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+MD.+Kamrul+Hasan;Full+Stack+Software+Engineer;Building+Scalable+Web+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamrul-CSE-official&label=Profile%20views&color=0e75b6&style=flat" alt="kamrul-CSE-official" />
+  <a href="https://www.linkedin.com/in/md-kamrul-hasan-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Kamrul_Hasan47">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.facebook.com/Kamrul.h.m.77/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.beecrowd.com.br/judge/en/profile/417423">
+    <img src="https://img.shields.io/badge/Beecrowd-00B8D4?style=for-the-badge&logo=code&logoColor=white" alt="Beecrowd"/>
+  </a>
 </p>
 
-## <a href="https://github.com/kamrul-CSE-official"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=800&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B;This+is+MD.+Kamrul+Hasan;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" /></a>
-
-### 🙌 Thanks for visiting! I'm a passionate software engineer based in Chittagong, Bangladesh.
-
----
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning: **Advanced TypeScript, Next.js, and Prisma**
-- 🔭 Working on: **Algorithm visualization web application and backend services**
-- 👯 Looking to collaborate on: **Open-source projects and innovative web applications**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-kamrul-hasan-dev/) | [Twitter](https://twitter.com/Kamrul_Hasan47)
-- 💬 Ask me about: **Web Development, Backend Services, and Software Engineering**
-- ⚡ Fun fact: **I love combining technology with creativity, whether it's in coding or design.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamrul-CSE-official&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
-### 🛠 My Skills
-```json
-{
-"Languages":  ["JavaScript(TypeScript)", "Python", "dart", "C#"],
-"DBMS":       ["MongoDB", "PostgreSQL", "SQL Server", "Prisma", "Redis", "firebase"],
-"Tools":      ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva", "Docker", "Chat GPT"],
-"Back-end":   ["dot net", "django", "Node.js", "Express.js", "Mongoose", "Prisma", "Firebase", "JWT"],
-"Front-end":  ["Next.js", "React js", "React native(expo)", "Electron js", "Flutter", ".net/ASP .net", "django" "Redux & RTK"],
-}
+## 👨‍💻 About Me
+
+```typescript
+const kamrul = {
+    location: "Chittagong, Bangladesh 🇧🇩",
+    role: "Full Stack Software Engineer",
+    code: ["JavaScript", "TypeScript", "Python", "C#", "Dart"],
+    currentFocus: "Building scalable web applications with modern tech stack",
+    learning: ["Advanced TypeScript", "Next.js 15", "Prisma ORM", "Microservices"],
+    workingOn: [
+        "Algorithm visualization platform",
+        "Real-time backend services",
+        "Open-source contributions"
+    ],
+    askMeAbout: ["Web Development", "Backend Architecture", "API Design", "Database Optimization"],
+    funFact: "I believe the best code is code that never needs to be written! 🚀"
+};
 ```
 
+### 🎯 What I'm Up To
+
+- 🔭 **Currently Building:** Algorithm visualization web application with interactive learning features
+- 🌱 **Learning Journey:** Exploring advanced patterns in Next.js, TypeScript, and distributed systems
+- 👯 **Open to Collaborate:** On innovative open-source projects and impactful web applications
+- 💬 **Let's Talk About:** System design, clean code practices, and developer productivity
+- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/md-kamrul-hasan-dev/) | [Twitter](https://twitter.com/Kamrul_Hasan47)
 
 ---
 
-### 🔗 Social Links
+## 🛠️ Tech Stack
 
-```json
-{
-  "URI online judge":   "https://www.beecrowd.com.br/judge/en/profile/417423",
-  "Github":             "https://github.com/kamrul-CSE-official",
-  "LinkedIn":           "https://www.linkedin.com/in/md-kamrul-hasan-dev/",
-  "Twitter":            "https://twitter.com/Kamrul_Hasan47",
-  "Facebook":           "https://www.facebook.com/Kamrul.h.m.77/"
-}
-```
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
 
-### 🛠 My Favourite Languages and Tools
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+</p>
+
+### Database & ORMs
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="33" alt="JavaScript logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="33" alt="TypeScript logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="33" alt="Python logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="33" alt="Node.js logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" color="white" width="33" alt="Express logo" /> 
-  <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="28" width="33" alt="Prisma logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="MongoDB logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" width="33" alt="PostgreSQL logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="33" alt="Firebase logo" /> 
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="28" height="33" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="28" width="33" alt="GraphQL logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="33" alt="React logo" /> 
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind CSS" width="28" height="33" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="33" alt="Bootstrap logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="Git logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="28" width="33" alt="Heroku logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" width="33" alt="npm logo" /> 
-  <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="28" height="33" /> 
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="28" height="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28" height="33" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul-CSE-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-CSE-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-CSE-official&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul-CSE-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamrul-CSE-official&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-kamrul-hasan-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Kamrul_Hasan47">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/kamrul-CSE-official">kamrul-CSE-official</a> - Feel free to reach out for collaborations!</i>
+</p>
