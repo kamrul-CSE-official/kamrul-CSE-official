@@ -26,11 +26,11 @@
 ### 🛠 My Skills
 ```json
 {
-"Languages":  ["JavaScript", "TypeScript", "Python", "Java", "PHP", "C", "dart"],
-"Front-end":  ["Next.js", "React", "React native", "Electron js", "Flutter", "HTML5", "CSS3", "Tailwind CSS"],
+"Languages":  ["JavaScript", "TypeScript", "Python", "Java", "PHP", "C", "dart", "C#"],
 "Back-end":   ["Node.js", "Express.js", "Mongoose", "Prisma", "Firebase", "JWT"],
 "DBMS":       ["MongoDB", "MySQL", "PostgreSQL", "SQL Server", "Prisma", "Redis"],
-"Tools":      ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva", "Docker"]
+"Tools":      ["VS Code", "GitHub", "Postman", "Photoshop", "Figma", "Canva", "Docker"],
+"Front-end":  ["Next.js", "React js", "React native", "Electron js", "Flutter", ".net/ASP .net", "Redux & RTK"],
 }
 ```
 
