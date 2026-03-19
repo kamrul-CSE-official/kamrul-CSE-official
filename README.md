@@ -5,8 +5,8 @@
 
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at [Optimizely Inc](https://en.wikipedia.org/wiki/Optimizely) as a Software Engineer II in the Opal(core) team. I'm working on the agent orchestration framework embedded within our SaaS products. I've completed my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
-> 💡 *I'm open to new opportunities in the domain of backend engineering, systems, vector databases*
+I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at [Naturub Accessories BD (Pvt.) Ltd.](https://www.naturub.com/) as a Software Developer in the new development team. I work on developing an agent orchestration framework that powers and streamlines our software products. I’ve completed my undergraduate degree in **Computer Science & Engineering** from _[PCIU](https://www.portcity.edu.bd/)_ and I’m currently pursuing my M.Sc in CSE. Beyond technology, I enjoy sports, reading, and coding, which help me stay creative and balanced.
+> 💡 *I’m open to new opportunities in backend engineering, systems design, as well as building user-friendly UIs.*
 
 
 <p align="center">
