@@ -6,20 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+MD.+Kamrul+Hasan;Full+Stack+Software+Engineer;Building+Scalable+Web+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-kamrul-hasan-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Kamrul_Hasan47">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.facebook.com/Kamrul.h.m.77/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.beecrowd.com.br/judge/en/profile/417423">
-    <img src="https://img.shields.io/badge/Beecrowd-00B8D4?style=for-the-badge&logo=code&logoColor=white" alt="Beecrowd"/>
-  </a>
-</p>
+### Hi there 👋
+
+I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at [Optimizely Inc](https://en.wikipedia.org/wiki/Optimizely) as a Software Engineer II in the Opal(core) team. I'm working on the agent orchestration framework embedded within our SaaS products. I've completed my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
+> 💡 *I'm open to new opportunities in the domain of backend engineering, systems, vector databases*
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamrul-CSE-official&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
