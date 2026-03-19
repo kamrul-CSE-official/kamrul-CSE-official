@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I'm currently working at [Naturub Accessories BD (Pvt.) Ltd.](https://www.naturub.com/) as a Software Developer in the new development team. I work on developing an agent orchestration framework that powers and streamlines our software products. I’ve completed my undergraduate degree in **Computer Science & Engineering** from _[PCIU](https://www.portcity.edu.bd/)_ and I’m currently pursuing my M.Sc in CSE. Beyond technology, I enjoy sports, reading, and coding, which help me stay creative and balanced.
+I am Md. Kamrul Hasan. I'm currently working at [Naturub Accessories BD (Pvt.) Ltd.](https://www.naturub.com/) as a Software Developer in the new development team. I work on developing an agent orchestration framework that powers and streamlines our software products. I’ve completed my undergraduate degree in **Computer Science & Engineering** from _[PCIU](https://www.portcity.edu.bd/)_ and I’m currently pursuing my M.Sc in CSE. Beyond technology, I enjoy sports, reading, and coding, which help me stay creative and balanced.
 > 💡 *I’m open to new opportunities in backend engineering, systems design, as well as building user-friendly UIs.*
 
 
