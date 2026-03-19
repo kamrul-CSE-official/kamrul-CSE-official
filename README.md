@@ -2,9 +2,6 @@
   <img src="/kamrul.gif" width="100%" alt="Coding Animation"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+MD.+Kamrul+Hasan;Full+Stack+Software+Engineer;Building+Scalable+Web+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
-</h1>
 
 ### Hi there 👋
 
