@@ -61,37 +61,3 @@ const kamrul: IDeveloperProfile = {
 
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-CSE-official&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul-CSE-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-kamrul-hasan-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Kamrul_Hasan47">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/kamrul-CSE-official">kamrul-CSE-official</a> - Feel free to reach out for collaborations!</i>
-</p>
